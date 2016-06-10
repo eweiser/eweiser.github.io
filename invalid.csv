@@ -1,1 +1,2 @@
-{"id":"badvar@gmail.com","vars":{"poop":"pop","plap":"plop","badvar2":"hello\xf8\xa1hello"}}
+email,plap,badvar2
+badvar@gmail.com,plop,hello\xf8\xa1hello
